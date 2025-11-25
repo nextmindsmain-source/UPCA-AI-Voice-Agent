@@ -1,0 +1,7 @@
+{
+  "name": "UPCA Real Estate Marketing",
+  "description": "Premium Real Estate Media Agency featuring AI Voice Assistants for booking and dispatch.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
